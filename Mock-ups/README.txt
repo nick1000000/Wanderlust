@@ -1,4 +1,4 @@
-All mockups are created with proto.io
+All mockups are created with proto.io (www.proto.io)
 
 ----
 
